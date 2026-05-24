@@ -1,0 +1,51 @@
+.amzon-link {
+     color: rgb(0, 113, 133);
+}
+.amazon-link:hover {
+    color:rgb(228, 138, 3);
+}
+
+
+
+.add-to-cart {
+    background-color:rgba(255, 216, 20);
+    color: black;
+    border:none;
+    height: 28px;
+    width: 105px;
+    border-radius:  15px;
+    font-size: 13px;
+    font-weight:300;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.15s;
+}
+
+.add-to-cart:hover {
+    background-color:rgb(247, 202,0);
+}
+.add-to-cart:active {
+    opacity: 0.5;
+}
+
+.buy-now-button {
+    background-color: rgba(255, 164, 28);
+    color: black;
+    border: none;
+    height: 28px;
+    width:105px;
+    border-radius: 15px;
+    font-size: 13px;
+    font-weight:300;
+    cursor:pointer;
+    transition: opacity 0.15s;
+
+}
+.buy-now-button:hover {
+    background-color:rgb(235, 145, 20);
+}
+.buy-now-button:active {
+    opacity: 0.5;
+}
+
+
