@@ -1,8 +1,13 @@
-.amzon-link {
+.amazon-link {
      color: rgb(0, 113, 133);
 }
 .amazon-link:hover {
     color:rgb(228, 138, 3);
+}
+
+.price {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
 }
 
 
